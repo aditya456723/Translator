@@ -91,5 +91,5 @@ ROBOTSTXT_OBEY = True
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 ITEM_PIPELINES = {
-    'glosbe_scraper.pipelines.GlosbeScraperPipeline': 300,
+    'glosbe_scraper.pipelines.GlosbeScraperPipeline': 30000,
 }
