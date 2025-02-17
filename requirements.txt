@@ -17,3 +17,4 @@ scrapy-poet
 zyte-spider-templates
 zyte-common-items
 typing-extensions
+typing
