@@ -1,3 +1,4 @@
+typing==3.10.0.2
 scrapy
 scrapy-splash
 scrapy-user-agents
@@ -11,4 +12,3 @@ beautifulsoup4
 lxml
 pandas
 numpy
-typing
