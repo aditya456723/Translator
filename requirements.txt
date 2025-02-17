@@ -1,6 +1,6 @@
 
 typing==3.7.4.3
-scrapy
+scrapy==2.11.0
 scrapy-splash
 scrapy-user-agents
 scrapy-fake-useragent
