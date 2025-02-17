@@ -1,5 +1,5 @@
---upgrade pip
-typing==3.10.0.2
+
+typing==3.7.4.3
 scrapy
 scrapy-splash
 scrapy-user-agents
