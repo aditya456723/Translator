@@ -1,0 +1,14 @@
+scrapy
+scrapy-cloud-pipelines
+scrapy-splash
+scrapy-user-agents
+scrapy-fake-useragent
+scrapy-proxies
+scrapy-crawlera
+scrapy-rotating-proxies
+shub
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
