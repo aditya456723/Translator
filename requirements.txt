@@ -12,8 +12,9 @@ beautifulsoup4
 lxml
 pandas
 numpy
+# requirements.txt
 Scrapy==2.11.2
-scrapy-poet==0.18.0
-zyte-spider-templates==1.3.0
-typing-extensions==4.10.0
+scrapy-poet==1.21.6
+zyte-spider-templates @ https://github.com/zytedata/zyte-spider-templates/archive/refs/tags/v0.11.2.zip
 zyte-common-items==1.1.0
+typing-extensions==4.10.0
