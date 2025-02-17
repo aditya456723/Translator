@@ -1,5 +1,4 @@
 scrapy
-scrapy-cloud-pipelines
 scrapy-splash
 scrapy-user-agents
 scrapy-fake-useragent
