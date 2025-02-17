@@ -1,6 +1,5 @@
 
 urljoin
-scrapy
 scrapy-splash
 scrapy-user-agents
 scrapy-fake-useragent
@@ -13,3 +12,5 @@ beautifulsoup4
 lxml
 pandas
 numpy
+scrapy==2.11.0
+typing-extensions==4.8.0
